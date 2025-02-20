@@ -1,0 +1,161 @@
+.logo {
+    border-radius: 10%;
+}
+
+header ul {
+    display: flex;
+    margin-left: 150px;
+    gap: 50px;
+}
+
+header li {
+    list-style: none;
+}
+
+header a {
+    text-decoration: none;
+}
+
+body {
+    width: 99%;
+    background-color:whitesmoke;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 10px;
+    font-size: 75px;
+    font-weight: 600;
+}
+
+h2 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 50px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+h3 {
+    margin-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.quem  {
+    text-align: left;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+#Sobre p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 100px;
+}
+
+.vest {
+    background-color: silver;
+    width: 100%;
+}
+
+.vest-content{
+    display: flex;
+    justify-content: space-between;
+    gap: 0px;
+}
+
+.vest-content ul {
+    padding: 0;
+    margin: 0;
+    margin-left: 100px;
+    display: flex;
+    gap: 100px;
+}
+
+.vest-content li {
+    list-style: none;
+    text-align: center;
+}
+
+.vest-content a {
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.dec {
+    background-color:slategray;
+    width: 100%;
+}
+
+.dec-content {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.dec-content ul {
+    display: flex;
+    margin-left: 100px;
+    gap: 115px;
+}
+
+.dec-content li {
+    list-style: none;
+    text-align: center;
+}
+
+.dec-content a {
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.aces {
+    background-color: lightslategray;
+}
+
+.aces-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.aces-content ul {
+    display: flex;
+    margin-left: 150px;
+    gap: 100px;
+}
+
+.aces-content li {
+    list-style: none;
+    text-align: center;
+}
+
+.aces-content a {
+    text-decoration: none;
+    font-size: 25px;
+}
+
+footer {
+    text-align: center;
+    background-color: darkgray;
+}
+
+.cont-item ul {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.cont-item li {
+    list-style: none;
+}
+
+.cont-item a {
+    text-decoration: none;
+}
